@@ -7,7 +7,7 @@ Este é o passo-a-passo de como subir um chatbot em uma página web usando *Wats
 
 Neste momento subiremos uma aplicação Web para linkar a nossa API de Chatbot.
 
-### 1.[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ibm-code-br/tdc-bot)
+### 1.[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/smazon/chatbot-template)
 
 ### 2.Deploy da Página Web. Aqui você deve clicar no quadrado do *Delivery Pipeline* e criar a sua API-KEY.
 ![Deploy](https://github.com/ibm-code-br/tdc-bot/raw/master/print/tutorial-chatbot-15.02.jpeg)
